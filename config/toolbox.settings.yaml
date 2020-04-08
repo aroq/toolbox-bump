@@ -1,3 +1,5 @@
 tools:
   bump:
     from: config.toolbox-exec
+    tool_dirs:
+    - toolbox/deps/toolbox-bump
